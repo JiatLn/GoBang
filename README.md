@@ -1,0 +1,2 @@
+# GoBang
+Also called Gomoku.
