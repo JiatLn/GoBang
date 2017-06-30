@@ -4,6 +4,7 @@ Also called Gomoku.
 - 2017-5-19
 # 编程语言
 - C#
+- Python 3
 - Java
 # 游戏引擎
 - U3D
